@@ -1,11 +1,25 @@
 body {
-    background-color: #EAF6F6;
+    margin: 0;
 }
 
-hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: rgb(202, 202, 202);
-    border-width: 5px;
-    width: 5%;
+h1 {
+    margin: 0;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    width: 200px;
+    height: 200px;
+}
+
+.middle-container {
+    background-color: #7ee87a;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: #4591ed;
+    width: 200px;
+    height: 200px;
 }
